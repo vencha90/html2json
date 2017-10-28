@@ -169,3 +169,5 @@
     }
   };
 })(this);
+
+export default global.html2json;
